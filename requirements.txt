@@ -1,0 +1,4 @@
+# 📊 AI Trading Dashboard - DB 조회용
+streamlit
+pandas
+plotly 
